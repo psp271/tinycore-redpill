@@ -23,12 +23,12 @@
         "branch": "master"
       },
       "redpill_load": {
-        "source_url": "https://github.com/pocopico/redpill-load.git",
+        "source_url": "https://github.com/psp271/redpill-load.git",
         "branch": "jun"
       },
       "add_extensions": [
         {
-          "redpill-misc": "https://github.com/pocopico/redpill-load/raw/master/redpill-misc/rpext-index.json"
+          "redpill-misc": "https://github.com/psp271/redpill-load/raw/master/redpill-misc/rpext-index.json"
         }
       ]
     },
@@ -117,12 +117,12 @@
         "branch": "master"
       },
       "redpill_load": {
-        "source_url": "https://github.com/pocopico/redpill-load.git",
+        "source_url": "https://github.com/psp271/redpill-load.git",
         "branch": "jun"
       },
       "add_extensions": [
         {
-          "redpill-misc": "https://github.com/pocopico/redpill-load/raw/master/redpill-misc/rpext-index.json"
+          "redpill-misc": "https://github.com/psp271/redpill-load/raw/master/redpill-misc/rpext-index.json"
         }
       ]
     },
@@ -148,12 +148,12 @@
         "branch": "master"
       },
       "redpill_load": {
-        "source_url": "https://github.com/pocopico/redpill-load.git",
+        "source_url": "https://github.com/psp271/redpill-load.git",
         "branch": "jun"
       },
       "add_extensions": [
         {
-          "redpill-misc": "https://github.com/pocopico/redpill-load/raw/master/redpill-misc/rpext-index.json"
+          "redpill-misc": "https://github.com/psp271/redpill-load/raw/master/redpill-misc/rpext-index.json"
         }
       ]
     },
